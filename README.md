@@ -57,7 +57,7 @@ $ cd Ultimate-tea
 1. How to deploy our project to the Netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
 4. From there select **_Deploy with Github_**.
-   ![Netlify-image](./images/netlify.png)
+   ![Netlify-image](./Netlify-screenshots/netlify.png)
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for Ultimate-tea_** and then select the **_Deploy Ultimate-tea_** Button.
 7. Now your project is Live.

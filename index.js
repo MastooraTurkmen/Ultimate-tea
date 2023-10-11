@@ -1,7 +1,7 @@
 const get = element => document.getElementById(element);
 
 let open = get("menu-btn");
-const nav = get("nav");
+let nav = get("nav");
 const exit = get("exit-btn");
 
 open.addEventListener('click', () => {

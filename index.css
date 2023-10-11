@@ -48,7 +48,9 @@ ul {
     z-index: 1;
 }
 
-ul li a {
+ul 
+li 
+a {
     color: black;
     padding: 2em;
     display: block;
@@ -56,7 +58,8 @@ ul li a {
     margin-left: -4em;
 }
 
-.exit svg {
+.exit 
+svg {
     width: 1.5em;
     position: absolute;
     top: 1em;
@@ -64,7 +67,8 @@ ul li a {
     cursor: pointer;
 }
 
-.active a {
+.active 
+a {
     color: #217C4f;
 }
 

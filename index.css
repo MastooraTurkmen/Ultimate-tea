@@ -144,7 +144,7 @@ p {
     opacity: 0.1;
 }
 
-@media (min-width: 600px) {
+@media (min-width: 500px) {
     body {
         font-size: 18px;
     }

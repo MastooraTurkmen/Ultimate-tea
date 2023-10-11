@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
 
-html, body {
+html, 
+body {
     margin: 0;
     padding: 0;
 }
@@ -223,15 +224,3 @@ p {
         width: 90%;
     }
 }
-
-/*
-
-- White Space
-- Color 
-- Contrast 
-- Scale
-- Alignment
-- Typography
-- Visual Hierarchy
-
-*/

@@ -24,7 +24,7 @@ $ cd Ultimate-tea
 
 ### Tablet 📱💻
 
-![Alt text](./images/Tablet-Versain.png)
+![Alt text](./screenshots/Tablet-Versain.png)
 
 ### DeskTop 💻
 

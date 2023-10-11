@@ -18,3 +18,11 @@ $ yarn watch # npm run watch
 # Mobile
 
 ![Alt text](Mobile-Versain.png)
+
+# Tablet
+
+![Alt text](Tablet-Versain.png)
+
+# DeskTop
+
+![Alt text](DeskTop-Versain.png)

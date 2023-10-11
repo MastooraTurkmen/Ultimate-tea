@@ -14,9 +14,7 @@ $ git clone https://github.com/MastooraTurkmen/Ultimate-tea.git
 $ cd Ultimate-tea
 ```
 
-
 ------
-
 
 ## Screenshots 📸
 

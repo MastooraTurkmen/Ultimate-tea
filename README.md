@@ -20,7 +20,7 @@ $ cd Ultimate-tea
 
 ### Mobile 📱
 
-![Alt text](./screenshots/Mobile-Versain.png)
+![Mobile screenshots](./screenshots/Mobile-Versain.png)
 
 ### Tablet 📱💻
 

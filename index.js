@@ -1,6 +1,6 @@
 const get = element => document.getElementById(element);
 
-const open = get("menu-btn");
+let open = get("menu-btn");
 const nav = get("nav");
 const exit = get("exit-btn");
 

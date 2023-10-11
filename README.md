@@ -28,7 +28,7 @@ $ cd Ultimate-tea
 
 ### DeskTop 💻
 
-![Alt text](./screenshots/DeskTop-Versain.png)
+![Desktop screenshots](./screenshots/DeskTop-Versain.png)
 
 
 ------

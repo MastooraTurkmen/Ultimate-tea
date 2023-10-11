@@ -17,12 +17,12 @@ $ yarn watch # npm run watch
 
 # Mobile
 
-![Alt text](Mobile-Versain.png)
+![Alt text](./images/Mobile-Versain.png)
 
 # Tablet
 
-![Alt text](Tablet-Versain.png)
+![Alt text](./images/Tablet-Versain.png)
 
 # DeskTop
 
-![Alt text](DeskTop-Versain.png)
+![Alt text](./images/DeskTop-Versain.png)

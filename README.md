@@ -1,6 +1,7 @@
 # Ultimate Tea ☕️🍵
 
 A great ultimate tea simple website. Start Your Day With hot Green Tea ☕️.
+Simple Project which used HTML, CSS and JavaScript.
 
 [Live Link](https://ultimate-green-tea.netlify.app/)
 

@@ -9,6 +9,7 @@ https://ultimate-green-tea.netlify.app/
 $ git clone https://github.com/MastooraTurkmen/Ultimate-tea.git
 
 # Go inside the repository
+$ cd Ultimate-tea
 ```
 
 # Mobile

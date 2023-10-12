@@ -6,6 +6,8 @@ https://ultimate-green-tea.netlify.app/
 
 ```
 # Clone this repository
+$ git clone https://github.com/MastooraTurkmen/Ultimate-tea.git
+
 
 ```
 

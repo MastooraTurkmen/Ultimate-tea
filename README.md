@@ -2,16 +2,6 @@
 
 https://ultimate-green-tea.netlify.app/
 
-Quick start:
-
-```
-# npm install
-$ yarn 
-
-$ yarn build 
-# npm run build
-
-```
 
 
 # Mobile

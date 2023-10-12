@@ -12,6 +12,9 @@ $ git clone https://github.com/MastooraTurkmen/Ultimate-tea.git
 $ cd Ultimate-tea
 ```
 
+
+------
+
 # Mobile
 
 ![Alt text](./images/Mobile-Versain.png)
@@ -23,3 +26,8 @@ $ cd Ultimate-tea
 # DeskTop
 
 ![Alt text](./images/DeskTop-Versain.png)
+
+
+------
+
+

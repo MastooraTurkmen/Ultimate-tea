@@ -16,7 +16,7 @@ $ cd Ultimate-tea
 ------
 
 
-## Screenshots 
+## Screenshots 📸
 
 ### Mobile 📱
 

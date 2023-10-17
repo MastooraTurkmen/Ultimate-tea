@@ -19,7 +19,7 @@ $ cd Ultimate-tea
 
 ![Alt text](./images/Mobile-Versain.png)
 
-# Tablet
+### Tablet 📱💻
 
 ![Alt text](./images/Tablet-Versain.png)
 

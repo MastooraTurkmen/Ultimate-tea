@@ -15,7 +15,7 @@ $ cd Ultimate-tea
 
 ------
 
-# Mobile
+### Mobile 📱
 
 ![Alt text](./images/Mobile-Versain.png)
 

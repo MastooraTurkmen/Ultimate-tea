@@ -23,7 +23,7 @@ $ cd Ultimate-tea
 
 ![Alt text](./images/Tablet-Versain.png)
 
-# DeskTop
+# DeskTop 💻
 
 ![Alt text](./images/DeskTop-Versain.png)
 

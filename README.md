@@ -2,7 +2,7 @@
 
 https://ultimate-green-tea.netlify.app/
 
-## Cloning the project
+## Cloning the project 🪛
 
 ```
 # Clone this repository

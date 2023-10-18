@@ -56,3 +56,4 @@ $ cd Ultimate-tea
 
 1. How to deploy our project to the Netlify site?
 2. I use [Netlify App](https://app.netlify.com/) for deploying my projects.
+4. From there select **_Deploy with Github_**.

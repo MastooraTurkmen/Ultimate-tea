@@ -62,3 +62,6 @@ $ cd Ultimate-tea
 6. After selecting here you can see that the project **_Review configuration for Ultimate-tea_** and then select the **_Deploy Ultimate-tea_** Button.
 7. Now your project is Live.
    ![Netlify-image](./images/netlify-1.png)
+
+
+-----

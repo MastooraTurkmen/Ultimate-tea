@@ -1,5 +1,7 @@
 # Ultimate Tea ☕️🍵
 
+A great ultimate tea simple website. Start Your Day With hot Green Tea ☕️.
+
 https://ultimate-green-tea.netlify.app/
 
 ## Cloning the project 🪛

@@ -66,7 +66,7 @@ $ cd Ultimate-tea
 
 -----
 
-## Author
+## Author 👩🏻‍💻 
 
 **Mastoora Turkmen**  
 [LinkedIn](https://www.linkedin.com/in/mastoora-turkmen/) 
